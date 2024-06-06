@@ -12,11 +12,9 @@ I am a dedicated and passionate professional specializing in web development, so
 ## Skills
 
 - **Front-end Development**: React, HTML, CSS, JavaScript, TypeScript
-- **Back-end Development**: Node.js, Express, Spring Boot
+- **Back-end Development**: Node.js, Express
 - **Database Management**: MySQL, PostgreSQL, MongoDB
-- **Software Architecture**: Microservices, RESTful APIs, Serverless Computing
-- **DevOps**: Docker, Kubernetes, CI/CD pipelines
-- **Testing & Debugging**: Jest, Mocha, Selenium
+- **Software Architecture**: Microservices
 
 ## Current Focus
 
