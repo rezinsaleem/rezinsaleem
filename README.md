@@ -11,14 +11,14 @@ I am a dedicated and passionate professional specializing in web development, so
 
 ## Skills
 
-- **Front-end Development**: React, HTML, CSS, JavaScript, TypeScript
+- **Front-end Development**: React, HTML, CSS, JavaScript, TypeScript, Next Js
 - **Back-end Development**: Node.js, Express
 - **Database Management**: MySQL, PostgreSQL, MongoDB
 - **Software Architecture**: Microservices
 
 ## Current Focus
 
-I am currently diving deeper into advanced React concepts, enhancing my proficiency in building scalable and maintainable web applications. Additionally, I am exploring microservices architecture to design and implement distributed systems that ensure high availability and resilience.
+I am currently diving deeper into advanced Next Js concepts, enhancing my proficiency in building scalable and maintainable web applications. Additionally, I am exploring microservices architecture to design and implement distributed systems that ensure high availability and resilience.
 
 ## Collaboration
 
